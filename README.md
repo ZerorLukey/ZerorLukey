@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning to Build android custom roms and python
+🌱 I’m currently learning python and to Build Adroid Custom ROMs
 <!--
 **ZerorLukey/ZerorLukey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
