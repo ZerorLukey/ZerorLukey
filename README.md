@@ -15,7 +15,7 @@ Want to collaborate, ask a question, or just say hi? Feel free to reach out to m
 - Email: zartazor.prime@gmail.com
 - Instagram: [@magiscky](https://instagram.com/magiscky)
 - Twitter: [@zartazor_real](https://twitter.com/zartazor_real)
-- Personal Website: [zartazor.netlify.app](https://zartazor.netlify.app)
+- Personal Website: [zartazor.netlify.app](https://bit.ly/3T8rpk5)
 
 <!--
 **ZerorLukey/ZerorLukey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
